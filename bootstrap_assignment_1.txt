@@ -1,0 +1,5 @@
+col-sm-6 makes the layout split earlier, which may cause cramped content on small devices.
+
+col-md-6 provides a balance between usability and responsiveness, making it the most commonly used option.
+
+col-lg-6 delays horizontal alignment until large screens, improving readability on tablets but using more vertical space.
